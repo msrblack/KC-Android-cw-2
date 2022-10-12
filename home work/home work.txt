@@ -1,0 +1,17 @@
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+
+class HelloWorld {
+    public static void main(String[] args) {
+        int height = 160;
+        String name = "Abdul Rahman";
+        
+        if(height >= 160){
+            System.out.println(name +"your height is "+ height +" you are aloud to get insiad the game");
+        }
+        else {
+            System.out.println(name +"you height is less than "+ height +"so your not aloud to get insiad the gmae");
+    
+        }
+    }
+}
